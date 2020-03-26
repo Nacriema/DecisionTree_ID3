@@ -2,12 +2,12 @@
 Learn and My own Implementation of ID3
 
 
-##Stopping criteria
+## Stopping criteria
 * Max depth of the tree
 * The minimum number of samples in a split to be considered.
 * Minimum gain for splitting.
 
-##Simple test on weather.csv
+## Simple test on weather.csv
 
 |id |outlook |temperature|humidity|wind  |play|
 |---|--------|-----------|--------|------|----|
